@@ -1,0 +1,6 @@
+{
+  "name": "FixAI",
+  "description": "Ton technicien informatique dans ta poche.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
